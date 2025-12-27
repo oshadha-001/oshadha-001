@@ -1,5 +1,12 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey%20%F0%9F%91%8B%20I'm%20OSHADHA%20THINURA&fontSize=45&fontColor=#87CEEB&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20OSHADHA%20THINURA&fontSize=45&fontColor=87CEEB&animation=twinkling&color=gradient"
+    style="
+      width:100%;
+      filter: drop-shadow(0 0 10px #87CEEB)
+              drop-shadow(0 0 20px #87CEEB);
+    "
+  />
 </div>
 
 ###
